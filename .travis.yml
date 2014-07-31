@@ -9,5 +9,4 @@ jdk:
   - openjdk7
 notifications:
   email:
-    - johannes@spray.io
-    - mathias@spray.io
+    - parkspeter@gmail.com
